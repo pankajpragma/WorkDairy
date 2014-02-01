@@ -11,7 +11,7 @@ Workdairy is plugin for Mantis Bug Tracker that show your weekly target issues a
 
 # Screenshot
 
-![Workdairy Screentshot](http://screencast.com/t/Cobp0qTfn "Workdairy Screentshot")
+http://screencast.com/t/Cobp0qTfn
 
 # Compatibility
 
