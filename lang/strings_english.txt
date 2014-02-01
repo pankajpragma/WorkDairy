@@ -1,0 +1,4 @@
+<?php
+   $s_plugin_WorkDairy_title = 'My Work Dairy'; 
+
+?>
