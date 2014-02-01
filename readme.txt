@@ -1,4 +1,4 @@
-Workdairy is plugin for Mantis Bug Tracker that show your weekly target issues according to project and due date, It also execute some functionality using ajax for quick operation. It contain timer functionality for each issue. You can see here screencast  
+Workdairy is plugin for Mantis Bug Tracker that show your weekly target issues according to project and due date, It also execute some functionality using ajax for quick operation. It contain timer functionality for each issue.
 
 
 # Installation Instructions
